@@ -1,5 +1,6 @@
 package br.com.diego;
 
+import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -9,6 +10,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
+import java.net.URLConnection;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -32,8 +34,12 @@ public class ExtractDataURL {
 		System.out.println("Extraindo dados...");
 		
 		while ((line = br.readLine()) != null) {
-			InputStream is = new URL(line.trim()).openStream();
-			String result = getStringFromInputStream(is);
+			
+			URL oracle = new URL("http://www.oracle.com/");
+	        URLConnection yc = oracle.openConnection();
+	        InputStream in = new BufferedInputStream(yc.getInputStream());
+			
+			String result = getStringFromInputStream(in);
 			Document doc = Jsoup.parse(result);
 			String description = doc.select(TAG_IN).get(0).attr(ATTR);
 			bw.write("Site - " +line+ " - TAG - " +TAG_OUT+ " - " +description);
