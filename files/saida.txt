@@ -1,0 +1,8 @@
+Site - http://www.globo.com/ - TAG - meta description Só na globo.com você encontra tudo sobre o conteúdo e marcas do Grupo Globo. O melhor acervo de vídeos online sobre entretenimento, esportes e jornalismo do Brasil.
+Site - http://www.estadao.com.br/ - TAG - meta description Encontre as últimas notícias com credibilidade na informação sobre os temas de política, economia, esportes, cultura, tecnologia e estilo de vida muito mais.
+Site - http://noticias.uol.com.br/ - TAG - meta description Acompanhe no UOL Notícias reportagens, fotos e vídeos sobre mundo, política, economia, tecnologia, educação, ciência, saúde e cotidiano
+Site - https://news.google.com.br/ - TAG - meta description Cobertura jornalística abrangente e atualizada, agregada de fontes do mundo inteiro pelo Google Notícias.
+Site - http://noticias.r7.com/ - TAG - meta description Conheça o canal de Notícias do Portal R7, que reúne tudo sobre Brasil, mundo, saúde, educação, empregos, carros, tecnologia, ciência, trânsito e mais.
+Site - https://br.noticias.yahoo.com/ - TAG - meta description Encontra as últimas notícias de hoje do Brasil e do Mundo. Notícia do dia de política, economia, entretenimento, tecnología e mais no Yahoo Notícias.
+Site - http://noticias.bol.uol.com.br/ - TAG - meta description Acompanhe notícias e fotos do dia e da semana no BOL Notícias: Brasil, internacional, esportes, economia, entretenimento, tecnologia, ciência e muito mais
+Site - http://ultimosegundo.ig.com.br/ - TAG - meta description Notícias do Brasil e do Mundo; tudo sobre Educação, Cultura e Ciência, com vídeos, fotos, entrevistas e infográficos exclusivos do iG.
